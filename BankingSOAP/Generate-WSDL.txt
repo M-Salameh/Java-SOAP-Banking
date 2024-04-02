@@ -1,0 +1,1 @@
+wsgen -cp target/classes -wsdl SOAP.AccountServiceImp
